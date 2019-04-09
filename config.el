@@ -9,3 +9,6 @@
       doom-variable-pitch-font (font-spec :family "Fira Sans")
       doom-unicode-font (font-spec :family "DejaVu Sans Mono")
       doom-big-font (font-spec :family "Fira Mono" :size 27))
+
+;; finds node
+(setq exec-path (append exec-path '("/usr/local/bin")))
