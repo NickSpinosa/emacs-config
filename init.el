@@ -159,8 +159,3 @@
        ;; config. Use it as a reference for your own modules.
        (default +bindings +smartparens)))
 
-;; defaults
-(setq doom-font (font-spec :family "Fira Mono" :size 16)
-      doom-variable-pitch-font (font-spec :family "Fira Sans")
-      doom-unicode-font (font-spec :family "DejaVu Sans Mono")
-      doom-big-font (font-spec :family "Fira Mono" :size 23))
